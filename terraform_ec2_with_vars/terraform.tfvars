@@ -1,3 +1,3 @@
-aws_access_key = "AKIAZKENTMOKF43NAHLM"
-aws_secret_key = "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"
+aws_access_key = "#######"
+aws_secret_key = "#####"
 
